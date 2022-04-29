@@ -1,0 +1,7 @@
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Assignment-7_2\Assignment-7_2\bin\Debug\Assignment-7_2.exe.config
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Assignment-7_2\Assignment-7_2\bin\Debug\Assignment-7_2.exe
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Assignment-7_2\Assignment-7_2\bin\Debug\Assignment-7_2.pdb
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Assignment-7_2\Assignment-7_2\obj\Debug\Assignment-7_2.csprojAssemblyReference.cache
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Assignment-7_2\Assignment-7_2\obj\Debug\Assignment-7_2.csproj.CoreCompileInputs.cache
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Assignment-7_2\Assignment-7_2\obj\Debug\Assignment-7_2.exe
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Assignment-7_2\Assignment-7_2\obj\Debug\Assignment-7_2.pdb

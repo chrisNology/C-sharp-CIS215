@@ -1,0 +1,10 @@
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\bin\Debug\Bonus-3.exe.config
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\bin\Debug\Bonus-3.exe
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\bin\Debug\Bonus-3.pdb
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\obj\Debug\Bonus-3.csprojAssemblyReference.cache
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\obj\Debug\Bonus_3.Form1.resources
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\obj\Debug\Bonus_3.Properties.Resources.resources
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\obj\Debug\Bonus-3.csproj.GenerateResource.cache
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\obj\Debug\Bonus-3.csproj.CoreCompileInputs.cache
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\obj\Debug\Bonus-3.exe
+C:\Users\ChrisCoding\Documents\GitHub\c-sharp-course-cis215\Bonus-3\Bonus-3\obj\Debug\Bonus-3.pdb
